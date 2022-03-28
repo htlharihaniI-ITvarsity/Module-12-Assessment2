@@ -1,0 +1,27 @@
+
+table{
+    
+    font-family: halvetic, sans-serif;
+    border-width: 100px;
+    border-bottom-style: hidden; 
+    background-color: palevioletred;
+   width: 100%;
+     left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+button{
+    text-underline-position: auto;
+    background-color: skyblue;
+     padding-top: 1rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+img{
+   width: 100px;
+    height: 100px; 
+     border-radius: 50px 50px 50px 50px;
+}
